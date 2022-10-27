@@ -11,3 +11,10 @@
 "email":"satyakisinha0@gmail.com".
      #opensource
 },
+
+{
+    "github": "https://github.com/horizoninversion",
+    "name": "Arjun Sharma",
+    "email":"arjunsharma0508@gmail.com".
+     #opensource
+},
